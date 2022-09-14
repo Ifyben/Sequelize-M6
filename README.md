@@ -1,0 +1,1 @@
+# Sequelize-M6
